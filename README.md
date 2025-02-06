@@ -2,10 +2,6 @@
 
 🚀 **Este proyecto utiliza redes neuronales LSTM para predecir niveles de estrés a partir de datos almacenados en MySQL.**  
 
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Artificial_neural_network.svg" width="400px">
-</div>
-
 ---
 
 ## 🛠️ Tecnologías Utilizadas  
@@ -80,9 +76,6 @@ El modelo calculará la tendencia basada en los **últimos 7 días** y predecir�
 
 El script generará un gráfico con los valores históricos y la predicción:  
 
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Matplotlib_pie_chart.svg" width="400px">
-</div>
 
 🔹 **Línea azul** → Datos reales  
 🔹 **Línea roja** → Predicción para los próximos 7 días  
